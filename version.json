@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Board": "Espressif ESP32-S3-DevKitC-1-N8 (8 MB QD, No PSRAM)",
-      "Version": "1.0.0",
+      "Version": "1.0.1",
       "URL": "https://raw.githubusercontent.com/PWRPPPLR/GG/main/firmware.bin"
     }
   ]
